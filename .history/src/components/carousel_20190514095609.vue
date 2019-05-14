@@ -1,9 +1,8 @@
-
 /*
  * @Author: zengna 
  * @Date: 2019-05-14 09:55:57 
- * @Last Modified by: ZY.zengna
- * @Last Modified time: 2019-05-14 10:00:59
+ * @Last Modified by:   zengna 
+ * @Last Modified time: 2019-05-14 09:55:57 
  */
 <template>
   <div id="swiper" @mouseover="stopAuto" @mouseout="autoPlay">

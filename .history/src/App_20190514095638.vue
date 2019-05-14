@@ -1,10 +1,10 @@
-
 /*
  * @Author: zengna 
  * @Date: 2019-05-14 09:56:30 
- * @Last Modified by: ZY.zengna
- * @Last Modified time: 2019-05-14 10:00:50
+ * @Last Modified by:   zengna 
+ * @Last Modified time: 2019-05-14 09:56:30 
  */
+
 <template>
   <div id="app">
       <Carousel :imgWidth="750" :imgList="imgList" :initIndex="0" :loop="true" :auto="true" :autoTime="2000"></Carousel>

@@ -2,6 +2,7 @@
 
 > a rotation chart projrct
 
+<<<<<<< HEAD
 ## 安装依赖
 > npm install
 
@@ -9,6 +10,18 @@
 npm run dev
 
 # 打包  build for production with minification
+=======
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+>>>>>>> 轮播图
 npm run build
 
 # build for production and view the bundle analyzer report

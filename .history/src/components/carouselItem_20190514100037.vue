@@ -2,8 +2,8 @@
 /*
  * @Author: zengna 
  * @Date: 2019-05-14 09:56:18 
- * @Last Modified by: ZY.zengna
- * @Last Modified time: 2019-05-14 10:00:37
+ * @Last Modified by:   zengna 
+ * @Last Modified time: 2019-05-14 09:56:18 
  */
 <template>
   <div class="swiper-item" :style="{'-webkit-transform':imgLateX}">
